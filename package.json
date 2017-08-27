@@ -1,0 +1,22 @@
+{
+  "name": "fbchatprac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabietaylor/FirebaseChatPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabietaylor/FirebaseChatPractice/issues"
+  },
+  "homepage": "https://github.com/gabietaylor/FirebaseChatPractice#readme",
+  "dependencies": {
+    "firebase": "^4.3.0"
+  }
+}
