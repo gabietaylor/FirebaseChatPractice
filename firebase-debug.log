@@ -1,0 +1,28 @@
+[debug] [2017-08-27T16:58:28.963Z] ----------------------------------------------------------------------
+[debug] [2017-08-27T16:58:28.965Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ikech\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] [2017-08-27T16:58:28.966Z] CLI Version:   3.9.2
+[debug] [2017-08-27T16:58:28.966Z] Platform:      win32
+[debug] [2017-08-27T16:58:28.966Z] Node Version:  v7.9.0
+[debug] [2017-08-27T16:58:28.967Z] Time:          Sun Aug 27 2017 12:58:28 GMT-0400 (Eastern Daylight Time)
+[debug] [2017-08-27T16:58:28.967Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-08-27T16:58:28.977Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-08-27T16:58:28.978Z] > authorizing via signed-in user
+[debug] [2017-08-27T16:58:28.980Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/fbchatprac  
+ Sun Aug 27 2017 12:58:28 GMT-0400 (Eastern Daylight Time)
+[debug] [2017-08-27T16:58:29.470Z] <<< HTTP RESPONSE 200
+[debug] [2017-08-27T16:58:29.471Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/fbchatprac/tokens  
+ Sun Aug 27 2017 12:58:29 GMT-0400 (Eastern Daylight Time)
+[debug] [2017-08-27T16:58:29.965Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'C:\Users\ikech\Desktop\Repositories\Practice\FirebaseChatPractice'...
+[info] 
+[debug] [2017-08-27T16:58:29.968Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/fbchatprac  
+ Sun Aug 27 2017 12:58:29 GMT-0400 (Eastern Daylight Time)
+[debug] [2017-08-27T16:58:30.339Z] <<< HTTP RESPONSE 200
+[debug] [2017-08-27T16:58:30.340Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/752608176062/clients/_:getWebAppConfig  
+ Sun Aug 27 2017 12:58:30 GMT-0400 (Eastern Daylight Time)
+[debug] [2017-08-27T16:58:30.774Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: public
+[info] +  hosting: Local server: http://localhost:5000
+
